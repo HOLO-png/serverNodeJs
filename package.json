@@ -33,7 +33,7 @@
     "socket.io": "^4.4.0"
   },
   "engines": {
-    "node": "16.15.0"
+    "node": "14.x"
   },
   "proxy": "http://localhost:8800/api",
   "devDependencies": {
